@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de0e4cabf0c60b84ead2db8175090d9a, type: 3}
+  m_Name: CardProobe
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 081a03f49fe24814489a94aeaf159411, type: 3}
+  age: 2018
+  name: Hacemos nuestro primer puto videojuego
+  diorama: {fileID: 1887455509855804, guid: 94c6f8cce6cf23b44bfaa477a1fbcae5, type: 2}

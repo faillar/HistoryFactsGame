@@ -6,10 +6,8 @@ using UnityEngine;
 public class Card : ScriptableObject {
 
     public Sprite image;
-
-    public new string name;
-    public string description;
-
     public int age;
-    public Object diorama;
+    public new string name;
+
+    public GameObject diorama;
 }
