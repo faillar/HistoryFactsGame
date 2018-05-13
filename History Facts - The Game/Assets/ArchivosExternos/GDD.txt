@@ -1,0 +1,9 @@
+History Facts Game. 
+El juego de los hechos historicos. Donde debemos organizar en una linea de tiempo las cartas de nuestra mano. 
+En cada Carta se describe un evento y el jugador deberá situar esta carta a la izquierda (tiempo anterior) o derecha (futuro) de
+la carta de muestra, o cualquier otra carta ya situada en el tablero de juego.
+El juego consta de un menú principal con estas opciones.
+1 Jugador. Modo offline un jugador.
+2 jugadores offline.
+Multijugador Online
+Ajustes.
